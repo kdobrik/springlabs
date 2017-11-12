@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1509272700757_1" label="SpringLabs" name="SpringLabs">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-client-side-load-balancing-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-client-side-load-balancing-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-routing-and-filtering-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-scheduling-tasks-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-neo4j-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-testing-web-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-neo4j-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-authenticating-ldap-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-routing-and-filtering-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-spring-boot-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-consuming-rest-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-rest-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-testing-web-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-caching-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-managing-transactions-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-messaging-jms-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-petclinic" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-batch-processing-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-managing-transactions-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-mysql-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-authenticating-ldap-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-messaging-jms-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-batch-processing-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-mongodb-data-rest-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-mongodb-data-rest-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-uploading-files-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-mongodb-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-centralized-configuration-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/greenhouse" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-mongodb-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-consuming-rest-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-rest-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-async-method-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/spring-mvc-showcase" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-uploading-files-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-scheduling-tasks-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-accessing-data-mysql-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-centralized-configuration-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-caching-initial" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-spring-boot-complete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gs-async-method-complete" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1509272726260_2" label="SpringBoot" name="SpringBoot">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/das-boot" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1509272646287_0" label="Window Working Set" name="Aggregate for window 1509272646286"/>
+<mruList name="SpringBoot"/>
+</workingSetManager>
